@@ -1,8 +1,8 @@
 # MATLAB-Functions
-PURPOSE 
+PURPOSE <br />
 Organize useful MATLAB functions for data analysis, simulation, control, and signal processing.
 
-BACKGROUND
+BACKGROUND <br />
 See each function file for a detailed description.
 
 DATA ANALYSIS FUNCTIONS

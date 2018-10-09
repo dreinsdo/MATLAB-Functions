@@ -1,9 +1,9 @@
 # MATLAB-Functions
 PURPOSE 
-  Organize useful MATLAB functions for data analysis, simulation, control, and signal processing.
+	Organize useful MATLAB functions for data analysis, simulation, control, and signal processing.
 
 BACKGROUND
-  See each function file for a detailed description.
+	See each function file for a detailed description.
 
 DATA ANALYSIS FUNCTIONS
 - 'dtrnd.m': detrend data by removing an offset from zero (equilibirum) and a fit to the difference in positive and negative peaks of the data. Function was designed and tested for oscillitory input data.
